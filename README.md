@@ -3,3 +3,4 @@ A web responsive design by using bootstrap, style website by multiple components
 <div class="container">
 <img src="finished_files/1.png" style="height:500px">
 </div>
+To see more features, please browse the website.
